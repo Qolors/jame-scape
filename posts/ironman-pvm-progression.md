@@ -1,50 +1,45 @@
 ---
-title: The Ironman PvM Progression Saga
-description: A deep dive into an Ironman's journey through PvM, skill mastery, and the quest for the ultimate drops.
+title: Ironman PvM Progression - A Journey of Triumphs
+description: A detailed account of an Oldschool Runescape player's ambitious journey through Ironman PvM progression.
 date: 2023-10-04
 scheduled: 2023-10-04
 layout: layouts/post.njk
 ---
 
-# The Ironman PvM Progression Saga
+# Ironman PvM Progression - A Journey of Triumphs
 
-![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242309335758012416/image0.png?ex=664d5e3a&is=664c0cba&hm=3b1dc6b951d90d8b260e8270da8bc8650ac9865ac9475d97fc8251326b803881&)
+My Ironman account has become an unexpected powerhouse, surpassing my main in numerous aspects. The thrill of this progression is something I can hardly contain. My goals are ambitious, yet distinctly clear:
 
-In the world of Oldschool Runescape, where every item and achievement is earned through blood, sweat, and the occasional tears, my Ironman account stands as a testament to dedication and perhaps a sprinkle of madness. This account, surpassing my main in so many areas, has become a source of pride and an ongoing project that seems to evolve with every login.
+- Achieve 5kc in all bosses
+- Secure meaningful PvM drops
+- Reach base 90s or max stats, mood dependent
 
-## Large Overarching Goals
+![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242311554158956565/image0.png)
 
-- **5kc in all bosses**: A testament to my PvM prowess and determination.
-- **Meaningful PvM drops**: The lifeblood of progress, from Ahrims to the elusive blowpipe.
-- **Base 90s or max**: Depending on how the winds of fortune blow and my current state of mind.
+Currently, I find myself in the thick of the mid-game, with my sights set on Ahrims, the blowpipe, a full barrows set, thread, prims, occult, and coveted raids drops. The roadmap to achieving 5kc across all bosses intertwines with my PvM drop aspirations, leading me through a gauntlet of barrows, Zulrah, slayer tasks, and the Theatre of Blood.
 
-## The Path to Glory
+## The Path to Base 90s
 
-The journey is split into two main paths: conquering bosses and mastering skills.
+![Skill Progression Plan](https://cdn.discordapp.com/attachments/1141540362188505181/1242311554708406413/image0.png)
 
-### Slayer and Bosses
+The journey to base 90s is a multifaceted one, involving:
 
-The road to 5kc in all bosses is paved with countless battles, each more challenging than the last. My targets are not just any bosses but those that drop the gears and glories I seek: full barrows set, thread, prims, occult, and the coveted raids drops.
+- **Combat Skills:** A passive grind through slayer and PvM encounters.
+- **Prayer:** Leveraged through moons, slayer, hunter, and mining activities.
+- **Runecrafting (95/99):** A necessity for efficient slayer and prayer leveling.
+- **Construction (99):** To stay ahead of prayer levels and secure the outfit.
+- **Hunter (99):** A flexible skill, beneficial for herblore and prayer.
+- **Herblore (90+):** Fueled by farming and PvM drops.
+- **Crafting (90+):** Though seemingly pointless, it's a glass-burning marathon.
+- **Fletching (90+):** A profitable skill, perfect for downtime.
+- **Mining:** The quest for the dragon pickaxe.
+- **Smithing (90+):** Enhanced through giants foundry and PvM drops.
+- **Fishing and Cooking (90+):** A leisurely pursuit.
+- **Firemaking:** Conquered at Wintertodt.
+- **Woodcutting:** Dominated with the dragon axe.
 
-### Skill Mastery
+The major milestones in this journey are slayer, hunter, and acquiring dragon equipment. As of now, I'm focusing on herblore and agility until I hit significant breakpoints. The plan includes farming Zulrah for the magic seed and tackling the Dagganoth Kings for the dragon axe.
 
-![Skill Mastery Path](https://cdn.discordapp.com/attachments/1141540362188505181/1242309336265658418/image0.png?ex=664d5e3a&is=664c0cba&hm=797f9e1724d010c228b0bba8189f0ef63e11ce78cd16e019c5d6f8892ca3b1cc&)
+Once the major skill breakpoints are reached, the world is my oyster. I could continue to 99 hunter for the sheer enjoyment, delve deeper into slayer, or brave the wilderness for boss encounters. The possibilities are endless, and the excitement is palpable.
 
-The path to base 90s is a marathon, not a sprint, involving:
-
-- **Combat skills**: Gained passively through slayer and PvM.
-- **Prayer**: Boosted by moons, slayer, hunter, and mining.
-- **Runecrafting and Construction**: Reaching for the stars with 95/99 and 99 respectively.
-- **Hunter and Herblore**: For the fun of it and the practical benefits.
-
-And the list goes on, from crafting to woodcutting, each skill a stepping stone towards the ultimate goal.
-
-## Present Day
-
-As of today, the focus is on herblore and agility, pushing towards those major breakpoints. Zulrah and Dagganoth Kings are in my sights for their precious drops. And once those are secured, it's a toss-up between hunting for the sheer joy of it, slaying for gains, or braving the wildy bosses for that thrill of danger.
-
-The journey of an Ironman is never straightforward, filled with unexpected twists and turns, but that's what makes it so exhilarating. Every achievement, no matter how small, feels monumental. And as I look back at how far this account has come, I can't help but feel a sense of accomplishment and an eager anticipation for what's to come.
-
-![The Journey Continues](https://cdn.discordapp.com/attachments/1141540362188505181/1242309335758012416/image0.png?ex=664d5e3a&is=664c0cba&hm=3b1dc6b951d90d8b260e8270da8bc8650ac9865ac9475d97fc8251326b803881&)
-
-The road ahead is long, but the rewards, both tangible and intangible, are what make every moment worth it. Here's to the next chapter in this Ironman saga, where the only certainty is the adventure itself.
+This journey is not just about the destination but the incredible experiences along the way. Each boss kill, each level gained, brings with it a sense of achievement and progression that is uniquely satisfying. As I continue on this path, I'm reminded of the sheer depth and complexity of Oldschool Runescape, and why it captures the hearts of so many adventurers.
