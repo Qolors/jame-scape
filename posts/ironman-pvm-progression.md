@@ -1,6 +1,6 @@
 ---
 title: The Ironman PvM Progression Saga
-description: A deep dive into an Ironman's journey through Oldschool Runescape's PvM and skill milestones.
+description: A deep dive into an Ironman's journey through PvM, skill mastery, and the quest for the ultimate drops.
 date: 2023-10-04
 scheduled: 2023-10-04
 layout: layouts/post.njk
@@ -8,39 +8,43 @@ layout: layouts/post.njk
 
 # The Ironman PvM Progression Saga
 
-![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242298893778026496/image0.png)
+![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242309335758012416/image0.png?ex=664d5e3a&is=664c0cba&hm=3b1dc6b951d90d8b260e8270da8bc8650ac9865ac9475d97fc8251326b803881&)
 
-In the world of Oldschool Runescape, where every item and achievement is earned through blood, sweat, and the occasional tears, my Ironman account stands as a testament to dedication and perhaps a sprinkle of madness. This account, a beacon of personal achievement, has not only surpassed my main in numerous aspects but has also set some ambitious goals that would make even the most seasoned players pause.
+In the world of Oldschool Runescape, where every item and achievement is earned through blood, sweat, and the occasional tears, my Ironman account stands as a testament to dedication and perhaps a sprinkle of madness. This account, surpassing my main in so many areas, has become a source of pride and an ongoing project that seems to evolve with every login.
 
-## The Grand Plan
+## Large Overarching Goals
 
-The overarching goals for this account are as follows:
+- **5kc in all bosses**: A testament to my PvM prowess and determination.
+- **Meaningful PvM drops**: The lifeblood of progress, from Ahrims to the elusive blowpipe.
+- **Base 90s or max**: Depending on how the winds of fortune blow and my current state of mind.
 
-- **5kc in all bosses**: A testament to both skill and perseverance.
-- **Meaningful PvM drops**: The lifeblood of any PvM-focused account, aiming for items like Ahrims, blowpipe, and the coveted full barrows set.
-- **Base 90s or max**: Depending on how deep into the grind I'm willing to go, this could range from achieving base level 90s in all skills to the Herculean task of maxing every skill.
+## The Path to Glory
 
-Currently, I find myself in the thick of the mid-game, with significant progress made and yet so much more to conquer. The path to achieving these lofty goals is twofold:
+The journey is split into two main paths: conquering bosses and mastering skills.
 
-1. **Slayer and Bossing**: The bread and butter of any PvM'er, this will be my route to 5kc in all bosses.
-2. **Skill Grinding**: A mix of combat and non-combat skills, focusing on those that will aid in PvM and overall account progression.
+### Slayer and Bosses
 
-![Skill Milestones](https://cdn.discordapp.com/attachments/1141540362188505181/1242298894185009292/image0.png)
+The road to 5kc in all bosses is paved with countless battles, each more challenging than the last. My targets are not just any bosses but those that drop the gears and glories I seek: full barrows set, thread, prims, occult, and the coveted raids drops.
 
-## The Journey So Far
+### Skill Mastery
 
-The journey has been a mix of strategic planning and seizing opportunities as they come. Here's a breakdown of the current strategy:
+![Skill Mastery Path](https://cdn.discordapp.com/attachments/1141540362188505181/1242309336265658418/image0.png?ex=664d5e3a&is=664c0cba&hm=797f9e1724d010c228b0bba8189f0ef63e11ce78cd16e019c5d6f8892ca3b1cc&)
 
-- **Herblore and Agility**: Grinding these skills to their respective breakpoints for more efficient PvM and overall gameplay.
-- **Zulrah**: The goal here is to farm for the magic seed, a crucial item for any serious PvMer.
-- **Dagannoth Kings**: Hunting for the dragon axe, an essential tool for any skiller.
+The path to base 90s is a marathon, not a sprint, involving:
 
-Once these immediate goals are met, the plan is to dive into Hunter for the sheer joy of it, or perhaps return to the Slayer grind or venture into the Wilderness for bosses.
+- **Combat skills**: Gained passively through slayer and PvM.
+- **Prayer**: Boosted by moons, slayer, hunter, and mining.
+- **Runecrafting and Construction**: Reaching for the stars with 95/99 and 99 respectively.
+- **Hunter and Herblore**: For the fun of it and the practical benefits.
 
-## Looking Ahead
+And the list goes on, from crafting to woodcutting, each skill a stepping stone towards the ultimate goal.
 
-The road ahead is daunting, filled with potential pitfalls and high-stakes rewards. Yet, the thrill of the chase, the allure of those meaningful PvM drops, and the satisfaction of hitting those skill milestones keep me coming back. Whether it's grinding out levels in Herblore, taking on the might of Zulrah, or strategizing the next big boss kill, each step brings me closer to those overarching goals.
+## Present Day
 
-In the end, this account is more than just a collection of stats and items; it's a journey. A journey of highs and lows, of triumphs and setbacks. But above all, it's a testament to the enduring appeal of Oldschool Runescape and the endless possibilities it offers to those willing to put in the time and effort.
+As of today, the focus is on herblore and agility, pushing towards those major breakpoints. Zulrah and Dagganoth Kings are in my sights for their precious drops. And once those are secured, it's a toss-up between hunting for the sheer joy of it, slaying for gains, or braving the wildy bosses for that thrill of danger.
 
-So here's to the grind, the glory, and the sheer insanity of it all. May the RNG gods be ever in our favor.
+The journey of an Ironman is never straightforward, filled with unexpected twists and turns, but that's what makes it so exhilarating. Every achievement, no matter how small, feels monumental. And as I look back at how far this account has come, I can't help but feel a sense of accomplishment and an eager anticipation for what's to come.
+
+![The Journey Continues](https://cdn.discordapp.com/attachments/1141540362188505181/1242309335758012416/image0.png?ex=664d5e3a&is=664c0cba&hm=3b1dc6b951d90d8b260e8270da8bc8650ac9865ac9475d97fc8251326b803881&)
+
+The road ahead is long, but the rewards, both tangible and intangible, are what make every moment worth it. Here's to the next chapter in this Ironman saga, where the only certainty is the adventure itself.
