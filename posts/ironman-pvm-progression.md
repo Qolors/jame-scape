@@ -1,45 +1,47 @@
 ---
-title: Ironman PvM Progression - A Journey of Triumphs
+title: Ironman PvM Progression - A Journey of Goals and Gains
 description: A detailed account of an Oldschool Runescape player's ambitious journey through Ironman PvM progression.
-date: 2023-10-04
-scheduled: 2023-10-04
+date: 21-05-2024
+scheduled: 2024-05-19
 layout: layouts/post.njk
 ---
 
-# Ironman PvM Progression - A Journey of Triumphs
+# Ironman PvM Progression - A Journey of Goals and Gains
 
-My Ironman account has become an unexpected powerhouse, surpassing my main in numerous aspects. The thrill of this progression is something I can hardly contain. My goals are ambitious, yet distinctly clear:
+The account is so incredibly good, it's hard to believe. It's surpassed my main in so many areas, and the journey has only just begun. The overarching goals for this account are ambitious yet clear:
 
-- Achieve 5kc in all bosses
-- Secure meaningful PvM drops
-- Reach base 90s or max stats, mood dependent
+- Achieve 5kc (kill count) in all bosses
+- Secure meaningful PvM (Player vs Monster) drops
+- Reach base 90s or max stats (depending on my level of dedication... or depression)
 
-![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242311554158956565/image0.png)
+![Ironman PvM Progression Guide](https://cdn.discordapp.com/attachments/1141540362188505181/1242317758218244266/image0.png)
 
-Currently, I find myself in the thick of the mid-game, with my sights set on Ahrims, the blowpipe, a full barrows set, thread, prims, occult, and coveted raids drops. The roadmap to achieving 5kc across all bosses intertwines with my PvM drop aspirations, leading me through a gauntlet of barrows, Zulrah, slayer tasks, and the Theatre of Blood.
+Currently, I find myself halfway through the mid-game according to the historical Ironman PvM progression guide. My PvM goals are quite specific: Ahrims, blowpipe, a full barrows set, thread, prims, occult, and raid drops. These are the treasures I seek.
 
-## The Path to Base 90s
+## The Path to 5kc in All Bosses and Beyond
 
-![Skill Progression Plan](https://cdn.discordapp.com/attachments/1141540362188505181/1242311554708406413/image0.png)
+The strategy is straightforward yet challenging:
 
-The journey to base 90s is a multifaceted one, involving:
+- **Slayer and Bossing**: The dual approach of leveling Slayer while learning and killing bosses is the key to achieving 5kc in all bosses.
 
-- **Combat Skills:** A passive grind through slayer and PvM encounters.
-- **Prayer:** Leveraged through moons, slayer, hunter, and mining activities.
-- **Runecrafting (95/99):** A necessity for efficient slayer and prayer leveling.
-- **Construction (99):** To stay ahead of prayer levels and secure the outfit.
-- **Hunter (99):** A flexible skill, beneficial for herblore and prayer.
-- **Herblore (90+):** Fueled by farming and PvM drops.
-- **Crafting (90+):** Though seemingly pointless, it's a glass-burning marathon.
-- **Fletching (90+):** A profitable skill, perfect for downtime.
-- **Mining:** The quest for the dragon pickaxe.
-- **Smithing (90+):** Enhanced through giants foundry and PvM drops.
-- **Fishing and Cooking (90+):** A leisurely pursuit.
-- **Firemaking:** Conquered at Wintertodt.
-- **Woodcutting:** Dominated with the dragon axe.
+- **Pursuing Meaningful PvM Drops**: This involves grinding more barrows, facing Zulrah, continuing with Slayer tasks, and tackling the Theatre of Blood (ToA).
 
-The major milestones in this journey are slayer, hunter, and acquiring dragon equipment. As of now, I'm focusing on herblore and agility until I hit significant breakpoints. The plan includes farming Zulrah for the magic seed and tackling the Dagganoth Kings for the dragon axe.
+## The Road to Base 90s
 
-Once the major skill breakpoints are reached, the world is my oyster. I could continue to 99 hunter for the sheer enjoyment, delve deeper into slayer, or brave the wilderness for boss encounters. The possibilities are endless, and the excitement is palpable.
+![Skill Progression Plan](https://cdn.discordapp.com/attachments/1141540362188505181/1242317758591533096/image0.png)
 
-This journey is not just about the destination but the incredible experiences along the way. Each boss kill, each level gained, brings with it a sense of achievement and progression that is uniquely satisfying. As I continue on this path, I'm reminded of the sheer depth and complexity of Oldschool Runescape, and why it captures the hearts of so many adventurers.
+The plan for achieving base 90s in all skills is as follows:
+
+- **Combats**: Level up passively through Slayer and PvM activities.
+- **Prayer**: Utilize moons, Slayer tasks, hunter activities, and mining.
+- **Runecrafting (95/99)**: Essential for efficient Slayer and Prayer leveling.
+- **Construction (99)**: Prioritize keeping this above Prayer level and acquire the outfit.
+- **Hunter (99)**: Engage in whenever possible, beneficial for Herblore and Prayer.
+
+And the list goes on, covering Herblore, Crafting, Fletching, Mining, Smithing, Fishing, Cooking, Firemaking, and Woodcutting. Each skill has its path, with major nodes being Slayer, Hunter, and acquiring dragon equipment.
+
+## Present Day and Immediate Goals
+
+As of today, the focus is on Herblore and Agility until major breakpoints are reached. The plan includes grinding Zulrah for the magic seed and tackling Dagganoth Kings for the dragon axe. Once these milestones are achieved, the options open up: continue with Hunter until 99 for fun, delve deeper into Slayer, or brave the wilderness for bossing adventures.
+
+The journey is long, filled with challenges and excitement at every turn. Each goal brings me closer to the ultimate Ironman PvM mastery, and I can't wait to see where this path takes me next.
