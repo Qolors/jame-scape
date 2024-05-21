@@ -1,5 +1,5 @@
 ---
-title: Dagannoth Kings: A Solo Adventure
+title: Dagannoth Kings - A Solo Adventure
 description: A thrilling recount of a solo player's journey to conquer the Dagannoth Kings in Oldschool Runescape.
 date: 2024-05-21
 scheduled: 2024-05-21
