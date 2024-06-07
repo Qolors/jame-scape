@@ -1,5 +1,5 @@
 ---
-title: Agility and Arcana: A Runescaper's Tale
+title: Agility and Arcana - A Runescaper's Tale
 description: A chaotic journey through agility training, deathbanking, and the pursuit of Runecraft mastery in Oldschool Runescape.
 date: 2024-06-07
 scheduled: 2024-06-07
